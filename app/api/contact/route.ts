@@ -24,7 +24,7 @@ export async function POST(request: NextRequest) {
   try {
     await resend.emails.send({
       from: "MYD Fashion <onboarding@resend.dev>", // à remplacer par ton domaine vérifié
-      to: "sadio228@icloud.com", // l'adresse où TU veux recevoir les messages
+      to: "diallomariamasadi9@gmail.com", // l'adresse où TU veux recevoir les messages
       subject: `Nouveau message de ${nom}`,
       replyTo: email,
       text: `De : ${nom} (${email})\n\nMessage :\n${message}`,
