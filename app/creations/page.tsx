@@ -17,7 +17,7 @@ const creations = [
   { id: 9, titre: "Pantalon designé", description: "Une coupe travaillée qui sublime la silhouette.", image: "/patalon designé.jpg" },
   { id: 10, titre: "Pantalon fleur", description: "Motifs floraux subtils pour une touche de douceur.", image: "/patalon fleur.jpg" },
   { id: 11, titre: "Pantalon palazzo", description: "Ample et fluide, le pantalon palazzo incarne l'élégance décontractée.", image: "/patalon palazo.jpg" },
-  { id: 12, titre: "Robe cintrée", description: "Une robe ajustée qui met en valeur chaque courbe avec grâce.", image: "/robe cintré.jpg" },
+  { id: 12, titre: "Robe cintrée", description: "Une robe ajustée qui met en valeur chaque courbe avec grâce.", image: "/robe-cintre.jpg" },
   { id: 13, titre: "Robe djin ovale", description: "Une robe originale au design unique, pour se démarquer avec style.", image: "/robe djin ovale.jpg" },
 ];
 
